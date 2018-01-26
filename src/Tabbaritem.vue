@@ -45,6 +45,6 @@ export default {
     color: #0089dc
   }
   .router-link-exact-active span {
-    color: #0089dc
+    color: #E63640
   }
 </style>

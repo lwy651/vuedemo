@@ -33,9 +33,9 @@ body,button,dd,dl,ol,ul {
   position: sticky;
 }
 .search,.search-wrapper {
-  background-image: -webkit-gradient(linear,left top,right top,from(#0af),to(#0085ff));
-  background-image: -webkit-linear-gradient(left,#0af,#0085ff);
-  background-image: linear-gradient(90deg,#0af,#0085ff)
+  background-image: -webkit-gradient(linear,left top,right top,from(#FD7962),to(#FB635A));
+  background-image: -webkit-linear-gradient(left,#FD7962,#FB635A);
+  background-image: linear-gradient(90deg,#FD7962,#FB635A)
 }
 .search {
   padding: .2rem .373333rem;
@@ -49,9 +49,9 @@ body,button,dd,dl,ol,ul {
   width: 100%;
   height: 2px;
   left: 0;
-  background-image: -webkit-gradient(linear,left top,right top,from(#0af),to(#0085ff));
-  background-image: -webkit-linear-gradient(left,#0af,#0085ff);
-  background-image: linear-gradient(90deg,#0af,#0085ff)
+  background-image: -webkit-gradient(linear,left top,right top,from(#FD7962),to(#FB635A));
+  background-image: -webkit-linear-gradient(left,#FD7962,#FB635A);
+  background-image: linear-gradient(90deg,#FD7962,#FB635A)
 }
 .search>.content {
   display: -webkit-box;

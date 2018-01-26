@@ -115,9 +115,9 @@ body,button,dd,dl,ol,ul {
 .headerInfo{
   padding: .266667rem .373333rem 0;
   padding: 2.666667vw 3.733333vw 0;
-  background-image: -webkit-gradient(linear,left top,right top,from(#0af),to(#0085ff));
-  background-image: -webkit-linear-gradient(left,#0af,#0085ff);
-  background-image: linear-gradient(90deg,#0af,#0085ff);
+  background-image: -webkit-gradient(linear,left top,right top,from(#FD7962),to(#FB635A));
+  background-image: -webkit-linear-gradient(left,#FD7962,#FB635A);
+  background-image: linear-gradient(90deg,#FD7962,#FB635A);
   color: #fff
 }
 .headerInfo.headerInfo-cyYks {
