@@ -27,7 +27,7 @@ export default {
         {
           text: '主页',
           url: '/index',
-          icon: ['#index-regular.f67031c', '#index.b8d51ef']
+          icon: ['#heart', '#logo']
         },
         {
           text: '订单',
