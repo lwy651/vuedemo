@@ -27,7 +27,7 @@ export default {
         {
           text: '主页',
           url: '/index',
-          icon: ['#heart', '#logo']
+          icon: ['#home', '#logo']
         },
         {
           text: '订单',
@@ -37,7 +37,7 @@ export default {
         {
           text: '我的',
           url: '/user',
-          icon: ['#profile-regular.813faec', '#profile.e6a81e5']
+          icon: ['#user', '#profile.e6a81e5']
         }
       ]
     }
