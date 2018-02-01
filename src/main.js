@@ -3,8 +3,12 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-import './assets/svgs/user.svg'
 import './assets/svgs/home.svg'
+import './assets/svgs/home_fill.svg'
+import './assets/svgs/people.svg'
+import './assets/svgs/people_fill.svg'
+import './assets/svgs/comment.svg'
+import './assets/svgs/comment_fill.svg'
 
 Vue.config.productionTip = false
 

@@ -27,17 +27,17 @@ export default {
         {
           text: '主页',
           url: '/index',
-          icon: ['#home', '#logo']
+          icon: ['#home', '#home_fill']
         },
         {
           text: '订单',
           url: '/order',
-          icon: ['#order-regular.e1ebaca', '#order.5fa2fba']
+          icon: ['#comment', '#comment_fill']
         },
         {
           text: '我的',
           url: '/user',
-          icon: ['#user', '#profile.e6a81e5']
+          icon: ['#people', '#people_fill']
         }
       ]
     }
@@ -59,10 +59,8 @@ a {
 html {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  background-color: #f5f5f5;
   color: #333;
-  font-family: "Helvetica Neue", Tahoma, Arial, PingFangSC-Regular,
-    "Hiragino Sans GB", "Microsoft Yahei", sans-serif;
+  font-family: 'Helvetica Neue',Tahoma,Arial,PingFangSC-Regular,'Hiragino Sans GB','Microsoft Yahei',sans-serif;
   line-height: 1.2;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -74,7 +72,7 @@ html {
   -webkit-text-size-adjust: none;
   -moz-text-size-adjust: none;
   -ms-text-size-adjust: none;
-  text-size-adjust: none;
+  text-size-adjust: none
 }
 body,button,dd,dl,ol,ul {
   margin: 0;
