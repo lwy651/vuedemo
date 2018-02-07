@@ -1,4 +1,5 @@
 <template>
+<div>
   <div class="search_wrapper">
     <div role="button" class="search" style="top: 0px; z-index: 999;">
       <a class="content">
@@ -10,15 +11,21 @@
       </a>
     </div>
   </div>
+  <SwiperPanel></SwiperPanel>
+</div>
 </template>
 
 <script>
+import SwiperPanel from './SwiperPanel.vue'
 export default {
   name: 'Index',
   data () {
     return {
       msg: 'Welcome to Your Vue.js App'
     }
+  },
+  components: {
+    SwiperPanel
   }
 }
 </script>
